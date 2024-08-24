@@ -2,7 +2,8 @@
 
 ## Screenshots
 
-![Login Page]("Login_Images/Screenshot 2024-08-24 222435.png")
+![Login Page]("Login_Images/Screenshot 2024-08-24 222214.png")
+
 *Login Page*
 
 ## Overview
