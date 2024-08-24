@@ -1,11 +1,30 @@
 # Login and Authentication System
 
-## Screenshots
-
-![Screenshot of Login Page](Login_Images/Screenshot%202024-08-24%20222214.png)
-
 ## Overview
 This project is a fully-functional login and authentication system developed using a robust and modern tech stack. It leverages the power of Java, Spring MVC, and Thymeleaf for backend and frontend integration, while Bootstrap enhances the user interface design. MySQL is utilized as the database for secure and efficient data management.
+
+## Screenshots
+
+### Login Page
+<img src="Login_Images/Screenshot%202024-08-24%20222214.png" alt="Login Page" width="400"/>
+
+### Dashboard
+<img src="Login_Images/Screenshot%202024-08-24%20222348.png" alt="Dashboard" width="400"/>
+
+### Profile Page
+<img src="Login_Images/Screenshot%202024-08-24%20222358.png" alt="Profile Page" width="400"/>
+
+### Settings Page
+<img src="Login_Images/Screenshot%202024-08-24%20222419.png" alt="Settings Page" width="400"/>
+
+### Notifications
+<img src="Login_Images/Screenshot%202024-08-24%20222428.png" alt="Notifications" width="400"/>
+
+### User Management
+<img src="Login_Images/Screenshot%202024-08-24%20222435.png" alt="User Management" width="400"/>
+
+### Logout Confirmation
+<img src="Login_Images/Screenshot%202024-08-24%20222451.png" alt="Logout Confirmation" width="400"/>
 
 ## Tech Stack
 - **Java**: Backend logic and server-side programming.
