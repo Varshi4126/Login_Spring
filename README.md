@@ -5,12 +5,7 @@ This project is a fully-functional login and authentication system developed usi
 
 ## Video Demonstration
 
-[![Watch the Video](Login_Images/Screenshot%202024-08-24%20222214.png)](Login_Images/video1258131047.mp4)
-
-<video width="600" controls>
-  <source src="Login_Images/video1258131047.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Video](Login_Images/video1258131047.mp4)
 
 ## Screenshots
 
