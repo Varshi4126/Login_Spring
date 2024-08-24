@@ -6,13 +6,13 @@ This project is a fully-functional login and authentication system developed usi
 ## Screenshots
 
 ### Login Page
-<img src="Login_Images/Screenshot%202024-08-24%20222214.png" alt="Login Page" width="400"/>
+<img src="Login_Images/Screenshot%202024-08-24%20222214.png" alt="Login Page" width="300"/>
 
 ### Dashboard
-<img src="Login_Images/Screenshot%202024-08-24%20222348.png" alt="Dashboard" width="400"/>
+<img src="Login_Images/Screenshot%202024-08-24%20222348.png" alt="Dashboard" width="300"/>
 
 ### Profile Page
-<img src="Login_Images/Screenshot%202024-08-24%20222358.png" alt="Profile Page" width="400"/>
+<img src="Login_Images/Screenshot%202024-08-24%20222358.png" alt="Profile Page" width="300"/>
 
 ### Settings Page
 <img src="Login_Images/Screenshot%202024-08-24%20222419.png" alt="Settings Page" width="400"/>
@@ -24,7 +24,7 @@ This project is a fully-functional login and authentication system developed usi
 <img src="Login_Images/Screenshot%202024-08-24%20222435.png" alt="User Management" width="400"/>
 
 ### Logout Confirmation
-<img src="Login_Images/Screenshot%202024-08-24%20222451.png" alt="Logout Confirmation" width="400"/>
+<img src="Login_Images/Screenshot%202024-08-24%20222451.png" alt="Logout Confirmation" width="1000"/>
 
 ## Tech Stack
 - **Java**: Backend logic and server-side programming.
