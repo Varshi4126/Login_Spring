@@ -3,6 +3,17 @@
 ## Overview
 This project is a fully-functional login and authentication system developed using a robust and modern tech stack. It leverages the power of Java, Spring MVC, and Thymeleaf for backend and frontend integration, while Bootstrap enhances the user interface design. MySQL is utilized as the database for secure and efficient data management.
 
+## Video Demonstration
+
+[Watch the Video](Login_Images/video1258131047.mp4)
+
+Or, watch directly below:
+
+<video width="600" controls>
+  <source src="Login_Images/video1258131047.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Screenshots
 
 ### Register Page
